@@ -1,0 +1,7 @@
+pandas
+matplotlib.pyplot
+matplotlib.figure
+matplotlib.backends.backend_tkagg
+seaborn
+tkinter
+unittest
